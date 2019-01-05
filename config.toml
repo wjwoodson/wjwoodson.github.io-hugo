@@ -10,7 +10,7 @@ title = "Will Woodson"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2016-2018 Will Woodson"
+copyright = "&copy; 2016-2019 Will Woodson"
 
 theme = "academic"
 enableEmoji = true
@@ -55,11 +55,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Will Woodson"
-  role = "Security @threat_x_inc, CISSP, etc."
+  role = "Security @threatx_inc, CISSP, etc."
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Threat X, Inc.", url = "https://threatx.com" } ]
+  organizations = [ { name = "ThreatX", url = "https://threatx.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
